@@ -122,7 +122,6 @@ jobs:
           files: |
             artifact/Aseprite-win-x64.zip
             artifact/Aseprite-mac-x64.zip
-            artifact/Aseprite-ubuntu_amd64.deb
           body: |
             Unofficial dev release.
             Support [official version](https://www.aseprite.org/download)
